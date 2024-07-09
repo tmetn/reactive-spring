@@ -1,6 +1,8 @@
 *.env
 secrets.yml
-
+docker-compose/docker-compose.yml
+gateway/src/main/docker/central-server-config/localhost-config/application.yml
+docker-compose/central-server-config/application.yml
 ./gateway/build/webpack/default-development/0.pack
 ./gateway/.gradle/nodejs/node-v16.17.0-darwin-x64/bin/node
 ./gateway/build/node/bin/node

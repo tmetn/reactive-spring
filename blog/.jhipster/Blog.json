@@ -1,6 +1,6 @@
 {
   "applications": ["gateway", "blog"],
-  "changelogDate": "20240703175255",
+  "changelogDate": "20240709091635",
   "clientRootFolder": "blog",
   "databaseType": "neo4j",
   "dto": "no",
